@@ -1,0 +1,16 @@
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.exe
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.csprojAssemblyReference.cache
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.AssemblyInfoInputs.cache
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.AssemblyInfo.cs
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.deps.json
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.runtimeconfig.json
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.runtimeconfig.dev.json
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.dll
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\MusicProgram.pdb
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\NAudio.dll
+F:\MyStuff\MusicProgram\MusicProgram\bin\Debug\netcoreapp3.1\System.Resources.Extensions.dll
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.csproj.CoreCompileInputs.cache
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.csproj.CopyComplete
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.dll
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.pdb
+F:\MyStuff\MusicProgram\MusicProgram\obj\Debug\netcoreapp3.1\MusicProgram.genruntimeconfig.cache
